@@ -1,3 +1,5 @@
+""" This is SQL Research Project file """
+""" Main purpose of this code is to get Covid Hospitalization rate """
 CREATE VIEW aboveAvg AS
 SELECT * 
 FROM VaccRate
